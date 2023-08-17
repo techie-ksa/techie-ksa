@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 DevOps & Senior IT Specialist
 -------------------------------------------------------------------------------
 
-### I'm enthusiast of the devops culture & open source technologies and passionate to learn new technologies 
+### I'm enthusiast of the devops culture & open source technologies and passionate to learn new technologies... 
 
 
 # 💻 Tech Stack:
