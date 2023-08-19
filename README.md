@@ -30,14 +30,7 @@ DevOps Specialist
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 📸  progressive-image.js
-    
 
-
-
-
-## 🕹 Multi-device Asteroids
-Playable on mobile or desktop with a keyboard, mouse, joystick, or touchscreen controls 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
