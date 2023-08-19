@@ -41,25 +41,4 @@ DevOps Specialist
 Playable on mobile or desktop with a keyboard, mouse, joystick, or touchscreen controls 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[![](https://visitcount.itsvg.in/api?id=techie-ksa&icon=0&color=0)](https://visitcount.itsvg.in)
-#  ✏ Writing
-Docker for Web Developers is my book, video course, and website for anyone who has struggledto understand how Docker can benefit their web development projects.
-  <ul>
-            <li>Node.js Novice to Ninja</li>
-            <li>Jump Start Web Performance</li>
-            <li>contributions to many more</li>
-        </ul>
-    <br>
-Recent tutorials at sites including SitePoint.com, Kinsta, and Open Relay:
 
-<ul>
-            <li>A Complete Introduction to Web Components</li>
-            <li>How to Debug Node.js Code</li>
-            <li>How To Optimize CSS for Peak Site Performance</li>
-            <li>Ajax Battle: XMLHttpRequest vs the Fetch API</li>
-            <li>The Ultimate Guide to Browser-Side Storage</li>
-            <li>An Introduction to the Rollup.js JavaScript Bundler</li>
-            <li>An Introduction to the Rollup.js JavaScript Bundler</li>
-            <li>How to Use WordPress as a Headless CMS for Eleventy</li>
-            <li>Core Web Vitals: A Guide to Google's Web Performance Metrics</li>
-        </ul>
