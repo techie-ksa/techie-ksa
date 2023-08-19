@@ -32,10 +32,9 @@ DevOps Specialist
 
 ## 📸  progressive-image.js
     
-<p>   A popular blurred-thumbnail-lazy-loading-image library.</p>
 
-## 🔧 datalist-ajax
- <p> A fast HTML5 Ajax-powered auto-complete -like web component. </p>
+
+
 
 ## 🕹 Multi-device Asteroids
 Playable on mobile or desktop with a keyboard, mouse, joystick, or touchscreen controls 
